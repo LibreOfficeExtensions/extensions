@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <description
+    xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:d="http://openoffice.org/extensions/description/2006"
+    xmlns:lo="http://libreoffice.org/extensions/description/2011"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <identifier value="org.palette.html.update"/>
+    <version value="1.0.0"/>
+	<platform value="all"/>
+    <dependencies>
+       <lo:LibreOffice-minimal-version d:name="html-update" value="5.3"/>
+    </dependencies>
+    <publisher>
+       <name xlink:href="https://en.wikipedia.org/wiki/Web_colors">Andreas Kainz</name>
+    </publisher>
+    <display-name>
+       <name lang="en">HTML color palette update</name>
+    </display-name>
+    <extension-description>
+       <name lang="en">better arrangement color plate</name>
+    </extension-description>
+    <icon>
+       <default xlink:href="icons/colorwheel.png"/>
+    </icon>
+</description>
