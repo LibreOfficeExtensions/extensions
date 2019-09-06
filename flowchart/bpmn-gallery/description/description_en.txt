@@ -1,0 +1,1 @@
+﻿symbols from bpmn 2.0 standard
